@@ -15,7 +15,7 @@ where dissipation, irreversibility, and noise emerge as necessary
 consequences of constrained dynamics.
 
 ## Access
-- PDF: ./output/book1.pdf
+📄 [Read the book (PDF)](./output/structure-science-book1.pdf)
 
 ## Citation
 (To be updated after DOI)
