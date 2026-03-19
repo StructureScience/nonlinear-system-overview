@@ -1,8 +1,6 @@
-cff-version: 1.2.0
-title: "Structure Science: Book I"
-message: "If you use this work, please cite it as below."
-authors:
-  - family-names: Ren
-    given-names: Leding
-date-released: 2026
-license: CC-BY-4.0
+@misc{ren2026nonlinear,
+  author = {Ren, Leding},
+  title = {Nonlinear System Overview},
+  year = {2026},
+  doi = {10.5281/zenodo.19105490}
+}
