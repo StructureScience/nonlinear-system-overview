@@ -4,7 +4,7 @@ A theoretical framework for nonlinear dissipative systems,
 structure formation, and irreversibility.
 
 ## Status
-Draft v0.1
+Draft v0.2
 
 ## Author
 Leding Ren
@@ -18,4 +18,13 @@ consequences of constrained dynamics.
 📄 [Read the book (PDF)](./output/structure-science-book1.pdf)
 
 ## Citation
-(To be updated after DOI)
+Ren, L. (2026). Nonlinear System Overview (v0.2). Zenodo. https://doi.org/10.5281/zenodo.19105490
+
+## Update Log
+
+### revision v0.2:
+- Added Chapter 8: 'Outside the Boundary'
+- Refocused Chapter 7 on thermodynamics
+- Shifted synthesis to Chapter 9
+- Amended errors in other chapters
+- Included a 'Preface' chapter
