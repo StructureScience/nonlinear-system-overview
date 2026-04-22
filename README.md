@@ -4,7 +4,7 @@ A theoretical framework for nonlinear dissipative systems,
 structure formation, and irreversibility.
 
 ## Status
-Draft v0.2
+Draft v0.9
 
 ## Author
 Leding Ren
@@ -15,10 +15,10 @@ where dissipation, irreversibility, and noise emerge as necessary
 consequences of constrained dynamics.
 
 ## Access
-📄 [Read the book (PDF)](./output/structure-science-book1.pdf)
+📄 [Read the book (PDF)](./output/nonlinear-system-overview-v0.9.pdf)
 
 ## Citation
-Ren, L. (2026). Nonlinear System Overview (v0.2). Zenodo. https://doi.org/10.5281/zenodo.19105490
+Ren, L. (2026). Nonlinear System Overview (v0.9). Zenodo. https://doi.org/10.5281/zenodo.19105490
 
 ## Update Log
 
@@ -28,3 +28,9 @@ Ren, L. (2026). Nonlinear System Overview (v0.2). Zenodo. https://doi.org/10.528
 - Shifted synthesis to Chapter 9
 - Amended errors in other chapters
 - Included a 'Preface' chapter
+
+### revision v0.9:
+- Recasted the impossibility triangle in Ch.9
+- Repositioned entropy formula under thermodynamic multiplicity in Ch.7/9
+- Reworked the four structural constraints as a generated sequence Ch.7/9
+- Amended wording in Ch.7/8/9
