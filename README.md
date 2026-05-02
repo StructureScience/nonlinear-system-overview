@@ -4,7 +4,7 @@ A theoretical framework for nonlinear dissipative systems,
 structure formation, and irreversibility.
 
 ## Status
-Draft v0.9
+Draft v0.91
 
 ## Author
 Leding Ren
@@ -15,10 +15,10 @@ where dissipation, irreversibility, and noise emerge as necessary
 consequences of constrained dynamics.
 
 ## Access
-📄 [Read the book (PDF)](./output/nonlinear-system-overview-v0.9.pdf)
+📄 [Read the book (PDF)](./output/nonlinear-system-overview-v0.91.pdf)
 
 ## Citation
-Ren, L. (2026). Nonlinear System Overview (v0.9). Zenodo. https://doi.org/10.5281/zenodo.19105490
+Ren, L. (2026). Nonlinear System Overview (v0.91). Zenodo. https://doi.org/10.5281/zenodo.19105490
 
 ## Update Log
 
