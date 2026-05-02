@@ -34,3 +34,9 @@ Ren, L. (2026). Nonlinear System Overview (v0.9). Zenodo. https://doi.org/10.528
 - Repositioned entropy formula under thermodynamic multiplicity in Ch.7/9
 - Reworked the four structural constraints as a generated sequence Ch.7/9
 - Amended wording in Ch.7/8/9
+
+### revision v0.91:
+- Added Appendix A: A Structural Reading of Quantum Formalism
+- Reframed quantum formalism through records, compression, and retained distinction
+- Clarified measurement as closure and retained record formation
+- Amended wording in Ch.8/9
